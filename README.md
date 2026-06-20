@@ -1,11 +1,9 @@
 # NASA-Missions
 ## About
-This unofficial project is about a program that has missions to go to other planets or moons. This project gets data from an excel file containing data about NASA missions to planets and moons and other extra info. The user can create a new mission for fun and add data to it. With this data stored in the excel file, the python program can compare missions.
+This unofficial project is about a program that has missions to go to other planets or moons. This project gets data from an excel file containing data about NASA missions to planets and moons and other extra info. The user can create a new mission for fun and add data to it. With this data stored in the excel file, the python program can compare missions. This is project is in the stardance program [here.](https://stardance.hackclub.com/projects/14462)
 
 ## Requirements
 - Python interpreter 3.14+
-- Openpyxl (run pip install -r requirements.txt in terminal)
-
 
 ## Installation
 - Download Python from [this link](https://www.python.org/downloads/)
@@ -27,9 +25,17 @@ This unofficial project is about a program that has missions to go to other plan
 - Helping fix errors
 - No AI wrote code
 
+
+## Setup
+- Uses a while loop 
+- Then once the user is types input, the program uses if/elif/else statements to go through options
+
+
 ## Improvements
 - Add a GUI??
 - Make missions comparable
 - Find data
+- Maybe use SQL
+- Use matplotlib and numpy (maybe scipy)?
 
 ### NOTE: Still in progress
